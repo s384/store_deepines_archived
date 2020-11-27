@@ -93,3 +93,4 @@ teamspeak-client
 libsndio6.1
 liblcf0
 retroarch-dbg
+adwaita-icon-theme
