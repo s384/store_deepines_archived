@@ -27,4 +27,5 @@
 'pix-data','python-twodict','python3-swisseph','radeon-profile-daemon',
 'retroarch-assets','smplayer-skins','smplayer-themes','speedtest-cli',
 'systemback-cli','systemback-efiboot-amd64','systemback-locales',
-'systemback-scheduler','tsc-data','tsc-music','unixodbc-dev']
+'systemback-scheduler','tsc-data','tsc-music','unixodbc-dev',
+'libsndio6.1','liblcf0','retroarch-dbg']
