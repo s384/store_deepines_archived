@@ -90,3 +90,6 @@ tsc-data
 tsc-music
 unixodbc-dev
 teamspeak-client
+libsndio6.1
+liblcf0
+retroarch-dbg
